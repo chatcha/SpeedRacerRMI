@@ -135,7 +135,7 @@ public class Core {
 
     
    /**
-    * Constructor
+    * Constructor (ajouter par joel)
     * @param gGUI The reference to the graphical user interface
     */
     public Core(GUI gGUI)
